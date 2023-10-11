@@ -1,0 +1,26 @@
+/* src/components/Admin/AdminSettingsForm/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #008CBA;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005f5f;
+  }
+  

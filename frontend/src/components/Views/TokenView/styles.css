@@ -1,0 +1,8 @@
+.token-view {
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+}

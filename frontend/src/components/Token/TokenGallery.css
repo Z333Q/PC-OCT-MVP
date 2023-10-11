@@ -1,0 +1,25 @@
+.token-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 16px;
+  }
+  
+  .token-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .token-card img {
+    max-width: 100%;
+    border-radius: 4px;
+  }
+  
+  .token-name {
+    margin-top: 8px;
+    font-weight: bold;
+  }
+  

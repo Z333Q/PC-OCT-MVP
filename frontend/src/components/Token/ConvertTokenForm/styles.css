@@ -1,0 +1,30 @@
+.convert-token-form {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .convert-token-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .convert-token-form button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .convert-token-form button:hover {
+    background-color: #005f5f;
+  }
+  

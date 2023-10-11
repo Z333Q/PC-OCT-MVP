@@ -1,0 +1,49 @@
+.purchase-token-form {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .purchase-token-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .purchase-token-form .prices {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .purchase-token-form .prices div {
+    margin-bottom: 10px;
+  }
+  
+  .purchase-token-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .purchase-token-form button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .purchase-token-form button:hover {
+    background-color: #005f5f;
+  }
+  
+  .purchase-token-form .error {
+    color: red;
+    margin-top: 10px;
+  }
+  

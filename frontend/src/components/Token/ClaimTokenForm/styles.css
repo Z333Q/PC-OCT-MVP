@@ -1,0 +1,31 @@
+.claim-token-form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;  /* Center the text */
+}
+
+.claim-token-form input {
+    width: 80%;  /* Set a width */
+    padding: 10px;  /* Add some padding */
+    margin-bottom: 20px;  /* Add some margin below the input field */
+    border-radius: 4px;  /* Optional: for rounded corners */
+    border: 1px solid #ddd;  /* Optional: for border */
+}
+
+.claim-token-form button {
+    padding: 10px 20px;  /* Add some padding */
+    border: none;  /* Remove border */
+    border-radius: 4px;  /* Optional: for rounded corners */
+    background-color: #008CBA;  /* Set a background color */
+    color: white;  /* Set a text color */
+    cursor: pointer;  /* Change cursor on hover */
+    font-size: 16px;  /* Set font size */
+}
+
+.claim-token-form button:hover {
+    background-color: #005f5f;  /* Change background color on hover */
+}
